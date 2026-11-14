@@ -1,251 +1,80 @@
+<!-- ===== BANNER ===== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2350,45:6b4f9e,100:f0b3c8&height=230&section=header&text=Build%20·%20Learn%20·%20Grow&fontSize=54&fontColor=ffffff&fontAlign=62&fontAlignY=38&desc=Product%20Thinking%20%7C%20Technology%20%7C%20Innovation&descSize=18&descAlign=62&descAlignY=58&animation=fadeIn" alt="Build · Learn · Grow" />
+</p>
 
-<!-- ========================================= -->
-<!-- AISHAWARYA | PRODUCT THINKING PORTFOLIO -->
-<!-- ========================================= -->
+<h1 align="center">Hi, I'm Aishwarya Gunarajan 👋</h1>
 
-<div align="center">
+<h3 align="center">Product Owner · Problem Solver · Lifelong Learner 💜</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171B35,50:51418C,100:B99AEF&height=210&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Product%20Thinking%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=16" width="100%"/>
+<p align="center"><i>Turning complex problems into meaningful product outcomes.</i></p>
 
-# Aishwarya Gunarajan
+<p align="center">
+  <img src="https://img.shields.io/badge/PRODUCT-Discovery-8b6fd6?style=flat-square&labelColor=2b2350" />
+  <img src="https://img.shields.io/badge/TECHNOLOGY-Architecture-5b7fe0?style=flat-square&labelColor=2b2350" />
+  <img src="https://img.shields.io/badge/AI-Innovation-b06fd6?style=flat-square&labelColor=2b2350" />
+  <img src="https://img.shields.io/badge/LEARNING-My%20Journal-d67fb0?style=flat-square&labelColor=2b2350" />
+</p>
 
-### Product Owner | Strategic Thinker | Technology Enthusiast
-
-*Turning complex problems into meaningful product outcomes.*
-
-[![Product](https://img.shields.io/badge/PRODUCT-Discovery-9B85D5?style=flat-square)](#product-thinking)
-[![Technology](https://img.shields.io/badge/TECHNOLOGY-Architecture-537FC5?style=flat-square)](#technology--cloud)
-[![AI](https://img.shields.io/badge/AI-Innovation-B48AD8?style=flat-square)](#ai--innovation)
-[![Journal](https://img.shields.io/badge/LEARNING-My_Journal-C49BEF?style=flat-square)](#my-learning-journal)
-
-</div>
+<p align="center">
+  📍 Atlanta, GA &nbsp;•&nbsp; 🏦 14+ years in banking & insurance tech &nbsp;•&nbsp; 🔗 <a href="https://YOUR-WEBSITE-HERE">YOUR-WEBSITE-HERE</a>
+</p>
 
 ---
 
-## ✦ HOW I THINK
+## 📖 My Blog
+<sub>Thoughts, learnings and ideas on tech, product, and life.</sub>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://YOUR-POST-LINK-1">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a2a1a,100:f2b14a&height=140&text=💡&fontSize=60" width="100%" alt="Thinking Like a Product Owner" />
+      </a>
+      <h4><a href="https://YOUR-POST-LINK-1">Thinking Like a Product Owner</a></h4>
+      <img src="https://img.shields.io/badge/📅-Nov%206,%202025-2b2350?style=flat-square" />
+      <img src="https://img.shields.io/badge/Product-8b6fd6?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://YOUR-POST-LINK-2">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d4a,100:2f8fe8&height=140&text=☁️&fontSize=60" width="100%" alt="Getting Started with Azure PaaS" />
+      </a>
+      <h4><a href="https://YOUR-POST-LINK-2">Getting Started with Azure PaaS</a></h4>
+      <img src="https://img.shields.io/badge/📅-Oct%2028,%202025-2b2350?style=flat-square" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://YOUR-POST-LINK-3">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e4a2a,100:b9d8a0&height=140&text=🌱&fontSize=60" width="100%" alt="Small Habits, Big Impact" />
+      </a>
+      <h4><a href="https://YOUR-POST-LINK-3">Small Habits, Big Impact</a></h4>
+      <img src="https://img.shields.io/badge/📅-Oct%2015,%202025-2b2350?style=flat-square" />
+      <img src="https://img.shields.io/badge/Life-6b4f9e?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://YOUR-BLOG-HOME">View all posts →</a></p>
+
+---
+
+## ✦ How I Think
 
 I believe great products are not created by simply collecting requirements.
 
 They are created by understanding people, identifying the right problems, challenging assumptions, and discovering opportunities to create measurable value.
 
-| DISCOVER | DEFINE | DELIVER |
+<div align="center">
+
+| 🔍 DISCOVER | 🎯 DEFINE | 🚀 DELIVER |
 |:---:|:---:|:---:|
 | Understand people | Identify the real problem | Measure outcomes |
 | Explore opportunities | Prioritize value | Improve continuously |
 
----
-
-## ◈ EXPLORE MY THINKING
-
-<a id="product-thinking"></a>
-
-### 🧭 01 — PRODUCT THINKING
-
-<table>
-<tr>
-<td width="50%">
-
-**PRODUCT DISCOVERY**
-
-Understanding customer needs, identifying friction, and validating opportunities.
-
-[Explore my notes →](#my-learning-journal)
-
-</td>
-<td width="50%">
-
-**PRODUCT STRATEGY**
-
-Prioritization, roadmaps, business value, and outcome-driven decisions.
-
-[Explore my notes →](#my-learning-journal)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**AGILE & DELIVERY**
-
-Backlog refinement, stakeholder alignment, and iterative delivery.
-
-[Explore my notes →](#my-learning-journal)
-
-</td>
-<td width="50%">
-
-**REAL-WORLD PROBLEM SOLVING**
-
-Turning production challenges into opportunities for permanent improvement.
-
-[Explore my notes →](#my-learning-journal)
-
-</td>
-</tr>
-</table>
-
-<a id="technology--cloud"></a>
-
-### ☁️ 02 — TECHNOLOGY & CLOUD
-
-| Area | What I'm exploring |
-|---|---|
-| Azure | App Services, API Management, Functions |
-| Architecture | APIs, microservices, integrations |
-| Observability | Application Insights, Dynatrace |
-| Engineering | CI/CD, reliability, system design |
-
-<a id="ai--innovation"></a>
-
-### 🤖 03 — AI & INNOVATION
-
-- AI-assisted product discovery
-- Customer feedback analysis
-- Smarter backlog refinement
-- AI-driven product experiences
-- Future-focused product opportunities
-
----
-
-<a id="my-learning-journal"></a>
-
-## 📚 MY LEARNING JOURNAL
-
-*A growing collection of ideas, experiments, and practical lessons.*
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Thinking Like a Product Owner
-
-Understanding the problem before choosing a solution.
-
-`PRODUCT` · `DISCOVERY`
-
-[Read article ↓](#thinking-like-a-product-owner)
-
-</td>
-<td width="50%">
-
-### ☁️ Getting Started with Azure PaaS
-
-Understanding cloud services through practical examples.
-
-`AZURE` · `CLOUD`
-
-[Read article ↓](#getting-started-with-azure-paas)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI in Product Management
-
-Exploring AI as a product innovation partner.
-
-`AI` · `INNOVATION`
-
-[Read article ↓](#ai-in-product-management)
-
-</td>
-<td width="50%">
-
-### 🌱 Learning in Public
-
-Building knowledge through consistent learning.
-
-`GROWTH` · `LEARNING`
-
-[Read article ↓](#learning-in-public)
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="thinking-like-a-product-owner"></a>
-
-## 💡 THINKING LIKE A PRODUCT OWNER
-
-**The question I always want to ask:**
-
-Are we building the right solution, or simply building what someone requested?
-
-### My discovery approach
-
-1. Understand the customer and their context.
-2. Identify the underlying problem.
-3. Challenge assumptions.
-4. Explore multiple solutions.
-5. Define measurable outcomes.
-
-**Key takeaway:** A feature is an output. Solving a meaningful customer problem is an outcome.
-
----
-
-<a id="getting-started-with-azure-paas"></a>
-
-## ☁️ GETTING STARTED WITH AZURE PAAS
-
-A practical exploration of how cloud services work together.
-
-- App Service — application hosting.
-- API Management — API governance and access.
-- Azure Functions — event-driven processing.
-- Service Bus — asynchronous communication.
-- Application Insights — application observability.
-
-**My perspective:** Understanding architecture helps connect product decisions with technical feasibility.
-
----
-
-<a id="ai-in-product-management"></a>
-
-## 🤖 AI IN PRODUCT MANAGEMENT
-
-AI can help product teams explore opportunities, synthesize customer feedback, and improve decision-making.
-
-My areas of exploration:
-
-- AI-assisted discovery
-- Product analytics
-- Requirements intelligence
-- Smarter customer experiences
-
----
-
-<a id="learning-in-public"></a>
-
-## 🌱 LEARNING IN PUBLIC
-
-My approach to continuous learning:
-
-**Observe → Explore → Experiment → Document → Improve**
-
-I want this space to evolve as I learn, question, experiment, and discover new perspectives.
-
----
-
-## ✦ MY PRINCIPLES
-
-<div align="center">
-
-**Think beyond requirements.**  
-**Focus on customer value.**  
-**Connect business and technology.**  
-**Build with purpose.**
-
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=171B35&height=75&section=footer&text=STAY%20CURIOUS%20%E2%80%A2%20KEEP%20BUILDING&fontColor=FFFFFF&fontSize=20" width="100%"/>
-
-*Thanks for exploring my journey.*
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0b3c8,55:6b4f9e,100:2b2350&height=110&section=footer" />
+</p>
