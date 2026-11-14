@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="article">
+  <a class="back-link" href="{{ '/' | relative_url }}">← All posts</a>
+  <header class="article-header">
+    <span class="tag">{{ page.category | default: "Learning" }}</span>
+    <h1>{{ page.title }}</h1>
+    <p class="muted">{{ page.date | date: "%B %-d, %Y" }} · A learning note</p>
+    {% if page.excerpt %}<p class="lead">{{ page.excerpt }}</p>{% endif %}
+  </header>
+  <div class="article-content">{{ content }}</div>
+  <div class="article-end">— Keep building, keep learning —</div>
+</article>

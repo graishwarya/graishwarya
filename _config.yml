@@ -1,0 +1,13 @@
+title: "Aishwarya | Build • Learn • Grow"
+description: "Notes on product thinking, technology, and continuous learning."
+url: "https://graishwarya.github.io"
+baseurl: ""
+author: "Aishwarya"
+markdown: kramdown
+theme: minima
+permalink: /:categories/:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+collections:
+  posts:
+    output: true
