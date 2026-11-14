@@ -1,123 +1,242 @@
 
+<!-- ========================================= -->
+<!-- AISHAWARYA | PRODUCT THINKING PORTFOLIO -->
+<!-- ========================================= -->
+
 <div align="center">
 
-# ✨ Aishwarya Gunarajan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171B35,50:51418C,100:B99AEF&height=210&section=header&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20GROW&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Product%20Thinking%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&descSize=16" width="100%"/>
 
-### BUILD • LEARN • GROW 💜
+# Aishwarya Gunarajan
 
-Product Thinker | Problem Solver | Lifelong Learner
+### Product Owner | Strategic Thinker | Technology Enthusiast
 
-*Exploring technology, product thinking, and meaningful solutions.*
+*Turning complex problems into meaningful product outcomes.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-graishwarya-purple?style=for-the-badge&logo=github)](https://github.com/graishwarya)
+[![Product](https://img.shields.io/badge/PRODUCT-Discovery-9B85D5?style=flat-square)](#product-thinking)
+[![Technology](https://img.shields.io/badge/TECHNOLOGY-Architecture-537FC5?style=flat-square)](#technology--cloud)
+[![AI](https://img.shields.io/badge/AI-Innovation-B48AD8?style=flat-square)](#ai--innovation)
+[![Journal](https://img.shields.io/badge/LEARNING-My_Journal-C49BEF?style=flat-square)](#my-learning-journal)
 
 </div>
 
 ---
 
-## 📚 My Learning Journal
+## ✦ HOW I THINK
 
-Welcome to my personal learning space!
+I believe great products are not created by simply collecting requirements.
 
-Every day is an opportunity to learn something new,
-understand a problem differently, and grow.
+They are created by understanding people, identifying the right problems, challenging assumptions, and discovering opportunities to create measurable value.
 
-| Topic | Learning Journal |
+| DISCOVER | DEFINE | DELIVER |
+|:---:|:---:|:---:|
+| Understand people | Identify the real problem | Measure outcomes |
+| Explore opportunities | Prioritize value | Improve continuously |
+
+---
+
+## ◈ EXPLORE MY THINKING
+
+<a id="product-thinking"></a>
+
+### 🧭 01 — PRODUCT THINKING
+
+<table>
+<tr>
+<td width="50%">
+
+**PRODUCT DISCOVERY**
+
+Understanding customer needs, identifying friction, and validating opportunities.
+
+[Explore my notes →](#my-learning-journal)
+
+</td>
+<td width="50%">
+
+**PRODUCT STRATEGY**
+
+Prioritization, roadmaps, business value, and outcome-driven decisions.
+
+[Explore my notes →](#my-learning-journal)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**AGILE & DELIVERY**
+
+Backlog refinement, stakeholder alignment, and iterative delivery.
+
+[Explore my notes →](#my-learning-journal)
+
+</td>
+<td width="50%">
+
+**REAL-WORLD PROBLEM SOLVING**
+
+Turning production challenges into opportunities for permanent improvement.
+
+[Explore my notes →](#my-learning-journal)
+
+</td>
+</tr>
+</table>
+
+<a id="technology--cloud"></a>
+
+### ☁️ 02 — TECHNOLOGY & CLOUD
+
+| Area | What I'm exploring |
 |---|---|
-| 🧭 Product | [Thinking Like a Product Owner](#-thinking-like-a-product-owner) |
-| ☁️ Azure | [Getting Started with Azure PaaS](#-getting-started-with-azure-paas) |
-| 🤖 AI | [AI in Product Management](#-ai-in-product-management) |
-| 🌱 Growth | [Learning in Public](#-learning-in-public) |
+| Azure | App Services, API Management, Functions |
+| Architecture | APIs, microservices, integrations |
+| Observability | Application Insights, Dynatrace |
+| Engineering | CI/CD, reliability, system design |
+
+<a id="ai--innovation"></a>
+
+### 🤖 03 — AI & INNOVATION
+
+- AI-assisted product discovery
+- Customer feedback analysis
+- Smarter backlog refinement
+- AI-driven product experiences
+- Future-focused product opportunities
 
 ---
 
-## 🧭 Thinking Like a Product Owner
+<a id="my-learning-journal"></a>
 
-### Start with the problem
+## 📚 MY LEARNING JOURNAL
 
-A product mindset starts with understanding the problem,
-not immediately jumping into a solution.
+*A growing collection of ideas, experiments, and practical lessons.*
 
-Questions I explore:
+<table>
+<tr>
+<td width="50%">
 
-- Who is experiencing the problem?
-- What are they trying to accomplish?
-- What is the current friction?
-- What outcome would make things better?
+### 💡 Thinking Like a Product Owner
 
-### My takeaway
+Understanding the problem before choosing a solution.
 
-Understand the problem.
-Discover the value.
-Build thoughtfully.
+`PRODUCT` · `DISCOVERY`
 
----
+[Read article ↓](#thinking-like-a-product-owner)
 
-## ☁️ Getting Started with Azure PaaS
+</td>
+<td width="50%">
 
-My practical learning notes on cloud architecture.
+### ☁️ Getting Started with Azure PaaS
 
-### Services I explore
+Understanding cloud services through practical examples.
 
-- Azure App Service
-- Azure Functions
-- Azure API Management
-- Azure Service Bus
-- Azure Application Insights
-- Azure Cosmos DB
+`AZURE` · `CLOUD`
 
-### My takeaway
+[Read article ↓](#getting-started-with-azure-paas)
 
-Understand how services connect,
-how applications communicate,
-and how cloud architecture supports business outcomes.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🤖 AI in Product Management
 
-## 🤖 AI in Product Management
+Exploring AI as a product innovation partner.
 
-Exploring how AI can help Product Owners:
+`AI` · `INNOVATION`
 
-- Understand customer feedback
-- Discover product opportunities
-- Improve backlog refinement
-- Generate acceptance criteria
-- Analyze product outcomes
+[Read article ↓](#ai-in-product-management)
 
----
+</td>
+<td width="50%">
 
-## 🌱 Learning in Public
+### 🌱 Learning in Public
 
-My learning habit:
+Building knowledge through consistent learning.
 
-1. Discover something interesting.
-2. Understand the concept.
-3. Apply it to a real scenario.
-4. Write down what I learned.
-5. Share and improve.
+`GROWTH` · `LEARNING`
+
+[Read article ↓](#learning-in-public)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔎 What I Explore
+<a id="thinking-like-a-product-owner"></a>
 
-- Product Discovery & Product Ownership
-- Azure Cloud & Modern Architecture
-- AI & Innovation
-- Banking Technology
-- Problem Solving
-- Continuous Learning
+## 💡 THINKING LIKE A PRODUCT OWNER
+
+**The question I always want to ask:**
+
+Are we building the right solution, or simply building what someone requested?
+
+### My discovery approach
+
+1. Understand the customer and their context.
+2. Identify the underlying problem.
+3. Challenge assumptions.
+4. Explore multiple solutions.
+5. Define measurable outcomes.
+
+**Key takeaway:** A feature is an output. Solving a meaningful customer problem is an outcome.
 
 ---
 
-## 💜 My Philosophy
+<a id="getting-started-with-azure-paas"></a>
+
+## ☁️ GETTING STARTED WITH AZURE PAAS
+
+A practical exploration of how cloud services work together.
+
+- App Service — application hosting.
+- API Management — API governance and access.
+- Azure Functions — event-driven processing.
+- Service Bus — asynchronous communication.
+- Application Insights — application observability.
+
+**My perspective:** Understanding architecture helps connect product decisions with technical feasibility.
+
+---
+
+<a id="ai-in-product-management"></a>
+
+## 🤖 AI IN PRODUCT MANAGEMENT
+
+AI can help product teams explore opportunities, synthesize customer feedback, and improve decision-making.
+
+My areas of exploration:
+
+- AI-assisted discovery
+- Product analytics
+- Requirements intelligence
+- Smarter customer experiences
+
+---
+
+<a id="learning-in-public"></a>
+
+## 🌱 LEARNING IN PUBLIC
+
+My approach to continuous learning:
+
+**Observe → Explore → Experiment → Document → Improve**
+
+I want this space to evolve as I learn, question, experiment, and discover new perspectives.
+
+---
+
+## ✦ MY PRINCIPLES
 
 <div align="center">
 
-**Understand the problem. Discover the value.**
-
-**Build thoughtfully. Learn continuously.**
-
-🌱 Stay curious. Keep learning. Make a difference.
+**Think beyond requirements.**  
+**Focus on customer value.**  
+**Connect business and technology.**  
+**Build with purpose.**
 
 </div>
 
@@ -125,6 +244,8 @@ My learning habit:
 
 <div align="center">
 
-⭐ Thanks for visiting my learning journey!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=171B35&height=75&section=footer&text=STAY%20CURIOUS%20%E2%80%A2%20KEEP%20BUILDING&fontColor=FFFFFF&fontSize=20" width="100%"/>
+
+*Thanks for exploring my journey.*
 
 </div>
